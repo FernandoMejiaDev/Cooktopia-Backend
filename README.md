@@ -129,7 +129,7 @@ El backend valida que **todos los campos estén completos** antes de aceptar la 
 
 ![N9](https://github.com/FernadoCodeDev/Cooktopia-Backend/blob/main/Readme/N9.png)
 
-> Por motivos de buenas prácticas, el contenido de la carpeta `storage` no se sube al repositorio. Sin embargo, en la carpeta `public` se incluye una copia de las imágenes para. [copia de imagenes de la base de datos](https://github.com/FernadoCodeDev/Cooktopia-Backend/tree/main/public/images)
+> Por motivos de buenas prácticas, el contenido de la carpeta `storage` no se sube al repositorio. Sin embargo, en la carpeta `public` se incluye una copia de las imágenes para la [copia de imagenes de la base de datos.](https://github.com/FernadoCodeDev/Cooktopia-Backend/tree/main/public/images)
 
 
 ## Guardar los datos
@@ -182,7 +182,6 @@ como en la información mostrada dentro del Modal.
 De esta manera, se cumple con la tercera operación del CRUD: **Update**, asegurando que los productos puedan ser editados y sus cambios reflejados de inmediato en el sistema.
 
 ![N17](https://github.com/FernadoCodeDev/Cooktopia-Backend/blob/main/Readme/N17.png)
-
 
 # Delete
 
