@@ -41,7 +41,7 @@ A continuación se muestran capturas del funcionamiento del proyecto en diferent
 
 ista completa de productos leídos desde la base de datos, con cada producto asociado a su categoría correspondiente.
 
-![N4](https://github.com/FernadoCodeDev/Cooktopia-Backend/blob/main/Readme/N4.png)
+![N4](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N4.png)
 
 ## Filtrado por Categoría:
 
