@@ -235,3 +235,5 @@ corresponde a la versión estática del proyecto, proveniente de otro repositori
 El contenido completo de ese repositorio lo puedes consultar aquí:
 
 [![CooktopiaShop-FrontEnd-Repositorio](https://img.shields.io/static/v1?message=Cooktopia-Shop-FrontEnd-Repositorio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/FernandoMejiaDev/Cooktopia-frontend)
+
+---
