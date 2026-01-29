@@ -103,7 +103,13 @@ Para que puedas ejecutar y probar completamente el CRUD, es importante seguir es
 **Para levantar el proyecto:**
 
 - Ejecuta `php artisan serve` para iniciar el servidor de Laravel, lo que te proporcionará una URL como `127.0.0.1:8000`.
+-  ```
+   php artisan serve
+    ```
 - Ejecuta `npm run dev` para iniciar el frontend con React y poder visualizar la aplicación.
+- ```
+  npm run dev
+  ```
 - Accede a `127.0.0.1:8000/CreatePage` para ingresar a la página de creación de nuevos productos.
 
 Esta sección se centra en explicar cómo funciona el CRUD y cómo interactuar con las páginas de creación y actualización de productos, asegurando que puedas gestionar el inventario de manera completa.
