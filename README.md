@@ -106,9 +106,9 @@ Para que puedas ejecutar y probar completamente el CRUD, es importante seguir es
 -  ```
    php artisan serve
     ```
-- Ejecuta `npm run dev` para iniciar el frontend con React y poder visualizar la aplicación.
+- Ejecuta `pnpm run dev` para iniciar el frontend con React y poder visualizar la aplicación.
 - ```
-  npm run dev
+  pnpm run dev
   ```
 - Accede a `127.0.0.1:8000/CreatePage` para ingresar a la página de creación de nuevos productos.
 
