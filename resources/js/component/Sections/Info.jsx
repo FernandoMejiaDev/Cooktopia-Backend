@@ -5,8 +5,8 @@ import IdeaSVG from "../../assets/svg/IdeaSVG";
 
 const Info = () => {
   return (
-    <div className="relative flex flex-col items-center justify-center w-full gap-4 p-4 bg-beige-200 text-beige-950 dark:text-beige-200 dark:bg-neutral-900 min-h-auto ">
-      <h1 className="font-mono text-2xl font-bold text-center md:text-2xl">
+    <div className="relative flex flex-col items-center justify-center w-full gap-4 p-4 bg-beige-200 text-stone-950 dark:text-beige-200 dark:bg-neutral-900 min-h-auto ">
+      <h1 className="text-2xl font-bold text-center md:text-2xl">
         ¿POR QUÉ ELEGIR NUESTROS UTENSILIOS?
       </h1>
 
@@ -16,7 +16,7 @@ const Info = () => {
             <CustomerServiceSVG width="60" height="auto" />
           </div>
 
-          <h1 className="font-mono text-2xl font-bold text-center text-beige-950 dark:text-beige-200">
+          <h1 className="text-2xl font-bold text-center text-stone-950 dark:text-beige-200">
             SERVICIO AL CLIENTE EXCEPCIONAL
           </h1>
           <p className="text-center ">
@@ -30,7 +30,7 @@ const Info = () => {
             <PremiumSVG width="60" height="auto" />
           </div>
 
-          <h1 className="font-mono text-2xl font-bold text-center text-beige-950 dark:text-beige-200">
+          <h1 className="text-2xl font-bold text-center text-stone-950 dark:text-beige-200">
             MATERIALES DE CALIDAD PREMIUM
           </h1>
           <p className="text-center ">
@@ -44,7 +44,7 @@ const Info = () => {
             <IdeaSVG width="50" height="auto" />
           </div>
 
-          <h1 className="font-mono text-2xl font-bold text-center text-beige-950 dark:text-beige-200">
+          <h1 className="text-2xl font-bold text-center text-stone-950 dark:text-beige-200">
             SOLUCIONES DE DISEÑO PERSONALIZADAS
           </h1>
           <p className="text-center ">

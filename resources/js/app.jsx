@@ -4,13 +4,24 @@ import React from "react";
 import { createRoot } from "react-dom/client";
 import { createInertiaApp } from "@inertiajs/react";
 import { ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css"; 
+import "react-toastify/dist/ReactToastify.css";
 
 function Root({ App, props }) {
   return (
     <>
       <App {...props} />
-      <ToastContainer position="top-right" autoClose={3000} />
+      <ToastContainer
+        position="top-right"
+        autoClose={3000}
+        hideProgressBar={false}
+        newestOnTop={true}
+        closeOnClick={false}
+        pauseOnHover={false}
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        theme="light"
+      />
     </>
   );
 }
