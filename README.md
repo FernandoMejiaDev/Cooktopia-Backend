@@ -236,7 +236,7 @@ Cabe mencionar que la página desplegada
 
 [![CooktopiaShop](https://img.shields.io/static/v1?message=Cooktopia-Shop&logo=shopee&label=&color=e2d9c8&logoColor=black&labelColor=&style=for-the-badge)](https://cooktopiashop.netlify.app/)
 
-corresponde a la versión estática del proyecto, proveniente de otro repositorio, y contiene únicamente el frontend funcionando con datos simulados mediante JSON.
+corresponde a la **versión estática** del proyecto, proveniente de otro repositorio, y contiene únicamente el frontend funcionando con datos simulados mediante JSON.
 
 El contenido completo de ese repositorio lo puedes consultar aquí:
 
