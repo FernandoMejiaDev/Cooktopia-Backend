@@ -25,6 +25,8 @@ Este repositorio corresponde a la versión que integra Frontend y Backend, permi
 <details>
 <summary>Interfaz y Gestión de Productos</summary>
 
+<br>
+
 A continuación se muestran capturas del funcionamiento del proyecto en diferentes vistas:
 
 ## Header
@@ -82,6 +84,8 @@ Es importante destacar que la página se visualiza desde la **perspectiva del Ad
 
 <details>
 <summary>Gestión de Productos (CRUD)</summary>
+
+<br>
 
 El proyecto integra un sistema completo de CRUD (Crear, Leer, Actualizar, Eliminar) para la gestión de productos, utilizando PHP y Laravel en el backend y React en el frontend.
 
@@ -227,7 +231,7 @@ lo que demuestra mi interés y práctica constante en este tipo de desarrollos.
 
 </details>
 
-----
+<br>
 
 Gracias por tomarte el tiempo de leer este README 🙌
 Si eres reclutador, o simplemente alguien interesado en mi trabajo, ¡espero que disfrutes revisando este proyecto tanto como yo disfruté al desarrollarlo!
