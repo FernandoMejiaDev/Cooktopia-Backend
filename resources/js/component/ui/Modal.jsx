@@ -54,6 +54,7 @@ export default function Modal({ isOpen, onClose, product }) {
               src={`/storage/${product.image}`}
               alt={product.name}
               className="object-contain w-48 h-48 m-auto mt-16 md:mt-0 md:w-80 md:h-80"
+              loading="lazy"
             />
           </div>
 
