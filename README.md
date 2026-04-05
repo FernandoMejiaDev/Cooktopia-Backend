@@ -25,6 +25,8 @@ Este repositorio corresponde a la versión que integra Frontend y Backend, permi
 <details>
 <summary>Interfaz y Gestión de Productos</summary>
 
+<br>
+
 A continuación se muestran capturas del funcionamiento del proyecto en diferentes vistas:
 
 ## Header
@@ -83,6 +85,8 @@ Es importante destacar que la página se visualiza desde la **perspectiva del Ad
 <details>
 <summary>Gestión de Productos (CRUD)</summary>
 
+<br>
+
 El proyecto integra un sistema completo de CRUD (Crear, Leer, Actualizar, Eliminar) para la gestión de productos, utilizando PHP y Laravel en el backend y React en el frontend.
 
 Para que puedas ejecutar y probar completamente el CRUD, es importante seguir estos pasos:
@@ -103,7 +107,13 @@ Para que puedas ejecutar y probar completamente el CRUD, es importante seguir es
 **Para levantar el proyecto:**
 
 - Ejecuta `php artisan serve` para iniciar el servidor de Laravel, lo que te proporcionará una URL como `127.0.0.1:8000`.
-- Ejecuta `npm run dev` para iniciar el frontend con React y poder visualizar la aplicación.
+-  ```
+   php artisan serve
+    ```
+- Ejecuta `pnpm run dev` para iniciar el frontend con React y poder visualizar la aplicación.
+- ```
+  pnpm run dev
+  ```
 - Accede a `127.0.0.1:8000/CreatePage` para ingresar a la página de creación de nuevos productos.
 
 Esta sección se centra en explicar cómo funciona el CRUD y cómo interactuar con las páginas de creación y actualización de productos, asegurando que puedas gestionar el inventario de manera completa.
@@ -221,7 +231,7 @@ lo que demuestra mi interés y práctica constante en este tipo de desarrollos.
 
 </details>
 
-----
+<br>
 
 Gracias por tomarte el tiempo de leer este README 🙌
 Si eres reclutador, o simplemente alguien interesado en mi trabajo, ¡espero que disfrutes revisando este proyecto tanto como yo disfruté al desarrollarlo!
@@ -230,7 +240,7 @@ Cabe mencionar que la página desplegada
 
 [![CooktopiaShop](https://img.shields.io/static/v1?message=Cooktopia-Shop&logo=shopee&label=&color=e2d9c8&logoColor=black&labelColor=&style=for-the-badge)](https://cooktopiashop.netlify.app/)
 
-corresponde a la versión estática del proyecto, proveniente de otro repositorio, y contiene únicamente el frontend funcionando con datos simulados mediante JSON.
+corresponde a la **versión estática** del proyecto, proveniente de otro repositorio, y contiene únicamente el frontend funcionando con datos simulados mediante JSON.
 
 El contenido completo de ese repositorio lo puedes consultar aquí:
 
