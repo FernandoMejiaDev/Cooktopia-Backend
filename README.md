@@ -1,10 +1,11 @@
+> [!IMPORTANT]
+> Este repositorio corresponde a la versión que integra Frontend y Backend, permitiendo no solo la visualización de productos sino también la gestión completa del sistema.
+
 ![N1](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N1.webp)
 
 # COOKTOPIA SHOP 🛒
 
 **COOKTOPIA SHOP** es un E-commerce especializado en artículos de cocina, desarrollado como parte de una prueba técnica con el objetivo de construir una tienda en línea funcional inspirada en la experiencia de WooCommerce.
-
-Este repositorio corresponde a la versión que integra Frontend y Backend, permitiendo no solo la visualización de productos sino también la gestión completa del sistema.
 
 [![CooktopiaShop](https://img.shields.io/static/v1?message=Cooktopia-Shop&logo=shopee&label=&color=e2d9c8&logoColor=black&labelColor=&style=for-the-badge)](https://cooktopiashop.netlify.app/)
 <div align="left">
