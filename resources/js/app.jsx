@@ -20,7 +20,8 @@ function Root({ App, props }) {
         rtl={false}
         pauseOnFocusLoss
         draggable
-        theme="light"
+        theme="dark"
+        limit={1}
       />
     </>
   );
