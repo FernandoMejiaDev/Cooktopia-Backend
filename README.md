@@ -23,9 +23,6 @@
 
 </div>  
 
-<details>
-<summary>Interfaz y Gestión de Productos</summary>
-
 ## Interfaz y Gestión de Productos
 
 A continuación se muestran capturas del funcionamiento del proyecto en diferentes vistas:
@@ -80,8 +77,6 @@ Es importante destacar que la página se visualiza desde la **perspectiva del Ad
 
 - **Actualizar**: redirige a la página de edición del producto seleccionado.
 - **Eliminar**: permite borrar el producto directamente desde el Modal.
-
-</details>
 
 <details>
 <summary>Gestión de Productos (CRUD)</summary>
