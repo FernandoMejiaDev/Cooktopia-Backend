@@ -61,15 +61,13 @@ Aunque actualmente estas categorías son estáticas, podrían convertirse fácil
 
 Debido a las limitaciones de tiempo, todos los productos se muestran directamente en la **página principal**, por lo que actualmente no existe una página dedicada para visualizar un producto individual por su ID.
 
-En su lugar, al hacer clic sobre un producto, se abre un **Modal**
+En su lugar, al hacer clic sobre un producto, se abre un **Modal** que permite ver la información detallada del producto seleccionado. Esta solución fue elegida por ser más accesible y rápida de implementar, aunque podría mejorarse en el futuro creando una **página dedicada para cada producto.**
 
 <div align="left">
 
   <img src="https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N7.png" alt="Vista Horizontal" width="20.5%">
   <img src="https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N8.png" alt="Vista Vertical" width="71%">
 </div>
-
-que permite ver la información detallada del producto seleccionado. Esta solución fue elegida por ser más accesible y rápida de implementar, aunque podría mejorarse en el futuro creando una **página dedicada para cada producto.**
 
 ## perspectiva de Administrador
 
