@@ -78,10 +78,7 @@ Es importante destacar que la página se visualiza desde la **perspectiva del Ad
 - **Actualizar**: redirige a la página de edición del producto seleccionado.
 - **Eliminar**: permite borrar el producto directamente desde el Modal.
 
-<details>
-<summary>Gestión de Productos (CRUD)</summary>
-
-## Gestión de Productos (CRUD)
+# Gestión de Productos (CRUD)
 
 El proyecto integra un sistema completo de **CRUD (Crear, Leer, Actualizar, Eliminar)** para la gestión de productos, utilizando PHP y Laravel en el backend y React en el frontend.
 
@@ -114,8 +111,7 @@ Para que puedas ejecutar y probar completamente el CRUD, es importante seguir es
 
 Esta sección se centra en explicar cómo funciona el CRUD y cómo interactuar con las páginas de creación y actualización de productos, asegurando que puedas gestionar el inventario de manera completa.
 
-
-# CREATE 
+## CREATE 
 
 Una vez configurado el proyecto y accediendo a la ruta `127.0.0.1:8000/CreatePage`, se despliega la página de **administración para la creación de productos.**
 
@@ -143,7 +139,7 @@ Al presionar el botón **Guardar producto**, se ejecuta la petición al backend.
 
 ![N10](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N10.png)
 
-# READ
+## READ
 
 Una vez guardados los datos en el sistema, estos pueden visualizarse correctamente desde la página principal.
 
@@ -156,7 +152,7 @@ Al hacer clic sobre el producto, se abre el **Modal**, mostrando en detalle la i
 
 Este flujo confirma que los datos fueron i**nyectados correctamente en la base de datos** y que el sistema cumple con la funcionalidad de la segunda operación del CRUD: **Read.**
 
-# Update 
+## Update 
 
 Dado que la aplicación se visualiza desde la **perspectiva del Administrador**, en el Modal de cada producto aparece un botón para **Actualizar datos**.
 
@@ -188,7 +184,7 @@ De esta manera, se cumple con la tercera operación del CRUD: **Update**, asegur
 
 ![N17](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N17.png)
 
-# Delete
+## Delete
 
 Una vez comprobadas las funcionalidades de **Crear, Leer y Actualizar**, se procedió a realizar la eliminación de productos.
 
@@ -224,11 +220,9 @@ Más allá de ser un CRUD, fue una experiencia en la que pude consolidar conocim
 
 lo que demuestra mi interés y práctica constante en este tipo de desarrollos.
 
-</details>
+>
 
-<br>
-
-Gracias por tomarte el tiempo de leer este README 🙌
+Gracias por tomarte el tiempo de leer este **README**
 Si eres reclutador, o simplemente alguien interesado en mi trabajo, ¡espero que disfrutes revisando este proyecto tanto como yo disfruté al desarrollarlo!
 
 Cabe mencionar que la página desplegada
