@@ -23,7 +23,7 @@
 
 </div>  
 
-## Interfaz y Gestión de Productos
+# Interfaz y Gestión de Productos
 
 A continuación se muestran capturas del funcionamiento del proyecto en diferentes vistas:
 
