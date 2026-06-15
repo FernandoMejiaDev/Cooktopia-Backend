@@ -1,5 +1,8 @@
 > [!IMPORTANT]
 > Este repositorio corresponde a la versión que integra Frontend y Backend, permitiendo no solo la visualización de productos sino también la gestión completa del sistema.
+>
+> Puedes ver la versión estatica aquí:  
+> *[Cooktopia-Frontend](https://github.com/FernandoMejiaDev/Cooktopia-frontend)*
 
 ![N1](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N1.webp)
 
