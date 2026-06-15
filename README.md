@@ -26,7 +26,7 @@
 <details>
 <summary>Interfaz y Gestión de Productos</summary>
 
-<br>
+## Interfaz y Gestión de Productos
 
 A continuación se muestran capturas del funcionamiento del proyecto en diferentes vistas:
 
@@ -86,9 +86,9 @@ Es importante destacar que la página se visualiza desde la **perspectiva del Ad
 <details>
 <summary>Gestión de Productos (CRUD)</summary>
 
-<br>
+## Gestión de Productos (CRUD)
 
-El proyecto integra un sistema completo de CRUD (Crear, Leer, Actualizar, Eliminar) para la gestión de productos, utilizando PHP y Laravel en el backend y React en el frontend.
+El proyecto integra un sistema completo de **CRUD (Crear, Leer, Actualizar, Eliminar)** para la gestión de productos, utilizando PHP y Laravel en el backend y React en el frontend.
 
 Para que puedas ejecutar y probar completamente el CRUD, es importante seguir estos pasos:
 
@@ -141,7 +141,6 @@ El backend valida que **todos los campos estén completos** antes de aceptar la 
 ![N9](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N9.png)
 
 > Por motivos de buenas prácticas, el contenido de la carpeta `storage` no se sube al repositorio. Sin embargo, en la carpeta `public` se incluye una copia de las imágenes para la [copia de imagenes de la base de datos.](https://github.com/FernandoMejiaDev/Cooktopia-Backend/tree/main/public/images)
-
 
 ## Guardar los datos
 
