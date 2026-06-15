@@ -37,13 +37,13 @@ A continuación se muestran capturas del funcionamiento del proyecto en diferent
 
 </div>
 
-## Lista de Productos:
+## Lista de Productos
 
 ista completa de productos leídos desde la base de datos, con cada producto asociado a su categoría correspondiente.
 
 ![N4](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N4.png)
 
-## Filtrado por Categoría:
+## Filtrado por Categoría
 
 Imagen mostrando la funcionalidad de filtrado de productos por categoría, ejemplificado con los productos de cuchillos y accesorios de corte, demostrando cómo los usuarios pueden ver únicamente los productos de interés.
 
@@ -77,6 +77,8 @@ Es importante destacar que la página se visualiza desde la **perspectiva del Ad
 
 - **Actualizar**: redirige a la página de edición del producto seleccionado.
 - **Eliminar**: permite borrar el producto directamente desde el Modal.
+
+>
 
 # Gestión de Productos (CRUD)
 
