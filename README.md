@@ -62,7 +62,7 @@ Aunque actualmente estas categorías son estáticas, podrían convertirse fácil
 
 ## Visualización de Productos y Modal
 
-Debido a las limitaciones de tiempo, todos los productos se muestran directamente en la **página principal**, por lo que actualmente no existe una página dedicada para visualizar un producto individual por su ID.
+Debido a las limitaciones de tiempo, todos los productos se muestran directamente en la **página principal**, por lo que actualmente no existe una página dedicada para visualizar un producto individual por su **ID.**
 
 En su lugar, al hacer clic sobre un producto, se abre un **Modal** que permite ver la información detallada del producto seleccionado. Esta solución fue elegida por ser más accesible y rápida de implementar, aunque podría mejorarse en el futuro creando una **página dedicada para cada producto.**
 
@@ -78,8 +78,8 @@ Es importante destacar que la página se visualiza desde la **perspectiva del Ad
 
 - **Actualizar**: redirige a la página de edición del producto seleccionado.
 - **Eliminar**: permite borrar el producto directamente desde el Modal.
-
->
+  
+> **los cambios hechos se restablecen al refrescar la página.**
 
 # Gestión de Productos (CRUD)
 
