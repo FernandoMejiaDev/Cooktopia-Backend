@@ -3,7 +3,7 @@
 
 ![N1](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N1.webp)
 
-# COOKTOPIA SHOP 🛒
+# COOKTOPIA SHOP
 
 **COOKTOPIA SHOP** es un E-commerce especializado en artículos de cocina, desarrollado como parte de una prueba técnica con el objetivo de construir una tienda en línea funcional inspirada en la experiencia de WooCommerce.
 
