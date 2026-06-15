@@ -151,6 +151,7 @@ Como ejemplo, se creó un producto de prueba llamado **“Producto de Prueba”*
 ![N11](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N11.png)
 
 Al hacer clic sobre el producto, se abre el **Modal**, mostrando en detalle la información registrada para dicho producto.
+
 ![N12](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N12.png)
 
 Este flujo confirma que los datos fueron i**nyectados correctamente en la base de datos** y que el sistema cumple con la funcionalidad de la segunda operación del CRUD: **Read.**
@@ -212,7 +213,7 @@ Con este proyecto se implementaron de forma exitosa las cuatro operaciones bási
 
 Este desarrollo fue una prueba técnica muy enriquecedora, que permitió aplicar tanto frontend como backend, simulando un entorno de comercio electrónico con base en WooCommerce.
 
-Más allá de ser un CRUD, fue una experiencia en la que pude consolidar conocimientos previos y reforzar buenas prácticas. Además de este proyecto, ya he realizado otros dos CRUD como proyectos personales:
+Más allá de ser un **CRUD**, fue una experiencia en la que pude consolidar conocimientos previos y reforzar buenas prácticas. Además de este proyecto, ya he realizado otros dos **CRUD** como proyectos personales:
 
 <div align="left">
 
