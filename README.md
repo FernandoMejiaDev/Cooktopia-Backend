@@ -134,7 +134,7 @@ El backend valida que **todos los campos estén completos** antes de aceptar la 
 
 ![N9](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N9.png)
 
-> Por motivos de buenas prácticas, el contenido de la carpeta `storage` no se sube al repositorio. Sin embargo, en la carpeta `public` se incluye una copia de las imágenes para la [copia de imagenes de la base de datos.](https://github.com/FernandoMejiaDev/Cooktopia-Backend/tree/main/public/images)
+> Por motivos de buenas prácticas, el contenido de la carpeta `storage` no se sube al repositorio. Sin embargo, en la carpeta `public` se incluye una copia de las imágenes para la *[copia de imagenes de la base de datos.](https://github.com/FernandoMejiaDev/Cooktopia-Backend/tree/main/public/images)*
 
 ## Guardar los datos
 
