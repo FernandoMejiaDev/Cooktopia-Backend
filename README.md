@@ -152,7 +152,7 @@ Como ejemplo, se creó un producto de prueba llamado **“Producto de Prueba”*
 
 Al hacer clic sobre el producto, se abre el **Modal**, mostrando en detalle la información registrada para dicho producto.
 
-![N12](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N12.png)
+![N11](https://github.com/FernandoMejiaDev/Cooktopia-Backend/blob/main/Readme/N12.png)
 
 Este flujo confirma que los datos fueron i**nyectados correctamente en la base de datos** y que el sistema cumple con la funcionalidad de la segunda operación del CRUD: **Read.**
 
