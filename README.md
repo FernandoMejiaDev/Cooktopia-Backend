@@ -237,6 +237,6 @@ corresponde a la **versión estática** del proyecto, proveniente de otro reposi
 
 El contenido completo de ese repositorio lo puedes consultar aquí:
 
-[![CooktopiaShop-FrontEnd-Repositorio](https://img.shields.io/static/v1?message=Cooktopia-Shop-FrontEnd-Repositorio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/FernandoMejiaDev/Cooktopia-frontend)
+[![CooktopiaShop-FrontEnd-Repositorio](https://img.shields.io/badge/Coooktopia_Shop_FrontEnd_Repositorio-000000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/FernandoMejiaDev/Cooktopia-frontend)
 
 ---
