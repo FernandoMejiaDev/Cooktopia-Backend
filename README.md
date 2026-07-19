@@ -14,16 +14,16 @@
 <div align="left">
 
 ## STACK
-    
-![JS](https://img.shields.io/static/v1?message=javascript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge)
-![React](https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge)
-![tailwind](https://img.shields.io/static/v1?message=tailwindCSS&logo=tailwindcss&label=&color=06B6D4&logoColor=white&labelColor=&style=for-the-badge)
-![vite](https://img.shields.io/static/v1?message=vite&logo=vite&label=&color=646CFF&logoColor=white&labelColor=&style=for-the-badge)
-![pnpm](https://img.shields.io/static/v1?message=pnpm&logo=pnpm&label=&color=F69220&logoColor=white&labelColor=&style=for-the-badge)
-![php](https://img.shields.io/static/v1?message=php&logo=php&label=&color=777BB4&logoColor=white&labelColor=&style=for-the-badge)
-![laravel](https://img.shields.io/static/v1?message=laravel&logo=laravel&label=&color=FF2D20&logoColor=white&labelColor=&style=for-the-badge)
-![mysql](https://img.shields.io/static/v1?message=mysql&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge)
 
+![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![tailwind](https://img.shields.io/badge/tailwind_css-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![vite](https://img.shields.io/badge/vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF)
+![pnpm](https://img.shields.io/badge/pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=F69220)
+![php](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=777BB4)
+![laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+    
 </div>  
 
 # Interfaz y Gestión de Productos
